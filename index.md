@@ -3,7 +3,7 @@
 * [About Rainbow Clubs](#about-rainbow-clubs)
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
-* [Advance Features](#advance-features)
+* [Advanced Features](#advanced-features)
 
 # About Rainbow Clubs
 
@@ -28,7 +28,7 @@ Admins can monitor the site for inappropriate content, and create new categories
 * User goes to landing page, logs in, looks for clubs of interest.
 * Club admin goes into site, updates their club profile.
 
-# Advance Features
+# Advanced Features
 
 * Upload club data from the CSV version of the RIO spreadsheet.
 * Notify admins when club data changes so they can review for appropriateness.
