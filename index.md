@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Bowfolios](#about-bowfolios)
+* [About Rainbow Clubs](#about-rainbowclubs)
 * [Installation](#installation)
 * [Application design](#application-design)
   * [Directory structure](#directory-structure)
