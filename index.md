@@ -43,15 +43,15 @@ Admins can monitor the site for inappropriate content, and create new categories
 
 # Use Case Ideas
 
-New user goes to landing page, logs in, gets home page, sets up profile.
-Admin goes to landing page, logs in, gets home page, edits site.
-User goes to landing page, logs in, looks for clubs of interest.
-Club admin goes into site, updates their club profile.
+* New user goes to landing page, logs in, gets home page, sets up profile.
+* Admin goes to landing page, logs in, gets home page, edits site.
+* User goes to landing page, logs in, looks for clubs of interest.
+* Club admin goes into site, updates their club profile.
 
 # Advance Features
 
-Upload club data from the CSV version of the RIO spreadsheet.
-Notify admins when club data changes so they can review for appropriateness.
-Provide “expiration date” for club listings (either one semester or one academic year). To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.
-Allow students to rate clubs.
+* Upload club data from the CSV version of the RIO spreadsheet.
+* Notify admins when club data changes so they can review for appropriateness.
+* Provide “expiration date” for club listings (either one semester or one academic year). To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.
+* Allow students to rate clubs.
 
