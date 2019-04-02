@@ -35,5 +35,5 @@ Admins can monitor the site for inappropriate content, and create new categories
 * Provide “expiration date” for club listings (either one semester or one academic year). To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.
 * Allow students to rate clubs.
 
-Testing GitHub on Slack 1
+Testing GitHub on Slack
 
