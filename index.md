@@ -1,5 +1,8 @@
+# Rainbow Clubs
+
 # Table of contents
 
+* [Our Team](#our-team)
 * [About Rainbow Clubs](#about-rainbow-clubs)
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
