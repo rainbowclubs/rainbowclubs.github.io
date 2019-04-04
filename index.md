@@ -5,6 +5,13 @@
 * [Use Case Ideas](#use-case-ideas)
 * [Advanced Features](#advanced-features)
 
+# Our Team
+
+* Audrey Ford
+* John Dobbs
+* Anthony Cathers
+* Leland Machii
+
 # About Rainbow Clubs
 
 The problem: UH Manoa has over 200 Registered Independent Organizations, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
@@ -34,6 +41,4 @@ Admins can monitor the site for inappropriate content, and create new categories
 * Notify admins when club data changes so they can review for appropriateness.
 * Provide “expiration date” for club listings (either one semester or one academic year). To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.
 * Allow students to rate clubs.
-
-Testing GitHub on Slack 1
 
