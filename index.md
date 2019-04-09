@@ -1,4 +1,6 @@
-# Rainbow Clubs
+---
+title: Rainbow Clubs
+---
 
 # Table of contents
 
