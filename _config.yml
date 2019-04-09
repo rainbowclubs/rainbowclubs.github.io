@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: Rainbow Clubs
 description: A centralized directory for UH Manoa student clubs
 navbar-links:
-  Source Code: "https://github.com/rainbowclubs/rainbowclubs"
+  Resources:
+    - Source Code: "https://github.com/rainbowclubs/rainbowclubs"
