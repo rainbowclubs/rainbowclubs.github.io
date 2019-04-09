@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Rainbow Clubs
 description: A centralized directory for UH Manoa student clubs
-github_editme_path: "https://github.com/rainbowclubs/rainbowclubs"
-show_downloads: true
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/rainbowclubs/rainbowclubs
