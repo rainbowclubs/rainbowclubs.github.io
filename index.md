@@ -10,14 +10,11 @@ title: Rainbow Clubs
 * [Use Case Ideas](#use-case-ideas)
 * [Advanced Features](#advanced-features)
 
-# Our Team
-
-* Audrey Ford
-* John Dobbs
-* Anthony Cathers
-* Leland Machii
-
 # About Rainbow Clubs
+
+*[Live Demo](http://rainbowclubs.meteorapp.com)
+*[Project Board](https://github.com/rainbowclubs/rainbowclubs/projects/1)
+*[Github Repository](https://github.com/rainbowclubs/rainbowclubs)
 
 The problem: UH Manoa has over 200 Registered Independent Organizations, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
 
@@ -47,3 +44,17 @@ Admins can monitor the site for inappropriate content, and create new categories
 * Provide “expiration date” for club listings (either one semester or one academic year). To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.
 * Allow students to rate clubs.
 
+# User Guide
+
+* Landing Page
+
+* Sign in/up Page
+
+* Listing Page
+
+# Our Team
+
+* Audrey Ford
+* John Dobbs
+* Anthony Cathers
+* Leland Machii
