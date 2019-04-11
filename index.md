@@ -12,9 +12,9 @@ title: Rainbow Clubs
 
 # About Rainbow Clubs
 
-*[Live Demo](http://rainbowclubs.meteorapp.com)
-*[Project Board](https://github.com/rainbowclubs/rainbowclubs/projects/1)
-*[Github Repository](https://github.com/rainbowclubs/rainbowclubs)
+* [Live Demo](http://rainbowclubs.meteorapp.com)
+* [Project Board](https://github.com/rainbowclubs/rainbowclubs/projects/1)
+* [Github Repository](https://github.com/rainbowclubs/rainbowclubs)
 
 The problem: UH Manoa has over 200 Registered Independent Organizations, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
 
