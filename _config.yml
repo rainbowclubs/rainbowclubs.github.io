@@ -5,3 +5,4 @@ show_downloads: false
 github:
   is_project_page: true
   repository_url: https://github.com/rainbowclubs/rainbowclubs
+  app_url: rainbowclubs.meteorapp.com
