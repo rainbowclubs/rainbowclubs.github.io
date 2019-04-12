@@ -8,13 +8,16 @@ title: Rainbow Clubs
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
 * [Advanced Features](#advanced-features)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Our Team](#our-team)
 
 # About Rainbow Clubs
 
 * [Live Demo](http://rainbowclubs.meteorapp.com)
-* [Project Board](https://github.com/rainbowclubs/rainbowclubs/projects/1)
 * [Github Repository](https://github.com/rainbowclubs/rainbowclubs)
+* [Project Board Milestone 1 (Completed)](https://github.com/rainbowclubs/rainbowclubs/projects/1)
+* [Project Board Milestone 2 (In Progress)](https://github.com/rainbowclubs/rainbowclubs/projects/2)
 
 The problem: UH Manoa has over 200 Registered Independent Organizations, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
 
@@ -45,22 +48,77 @@ Admins can monitor the site for inappropriate content, and create new categories
 * Allow students to rate clubs.
 
 # User Guide
+The following sections describe the main features of this application as of Milestone 1.
 
-* Landing Page
+## Landing Page
+The goal of this page is to describe the function of the website.
+When you retrieve the application at [http://localhost:3000](http://localhost:3000), you will receive the following page:
 
-This is the main page that users will be directed to.  The goal of this page is to describe the function of the website as a whole.  Normal users and admin users will have different landing pages and tabs however the admin user currently does not have any different functions yet.
-![landing page](/images/landing.png)
+<img src="doc/m1/landing.png">
 
-* Sign in/up Page
+## Login Page
+Clicking on the Login link and then on the Sign In menu item, you will receive the following page:
 
-These are the pages that users will be able to either sign in or register for an account.  These pages will store and pull the account information from a mongoDB.
-![Sign in page](/images/signin.png)
-![Sign up page](/images/signup.png)
+<img src="doc/m1/login.png">
 
-* Listing Page
+## Register Page
+Clicking on the Login link and then on the Sign Up menu item, you will receive the following page:
 
+<img src="doc/m1/register.png">
+
+## Landing Page After Login (Non Admin User)
+Once a non admin user logs in or registers, the top navbar changes as follows:
+
+<img src="doc/m1/landing_user.png">
+
+## Landing Page After Login (Admin User)
+Note that we did not have any admin functionality for the first milestone, therefore the landing page is the same as the non admin user.
+Once an admin logs in, the top navbar changes as follows:
+
+<img src="doc/m1/landing_admin.png">
+
+## Listing Page
 The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain a description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.
-![Listing page](/images/listing.png)
+
+<img src="doc/m1/club_listing.png">
+
+# Developer Guide
+
+## Backend System
+
+This application was built on meteor-application-template-react.  For information regarding this template, please refer to [https://ics-software-engineering.github.io/meteor-application-template-react/](https://ics-software-engineering.github.io/meteor-application-template-react/)
+
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install)
+
+Optionally, create a new GitHub repository and clone it to your local machine.
+
+Second, [download a copy of digits](https://john-dobbs.github.io/digits/).
+
+Third, uncompress the zip file and copy the files and directories into your working directory.
+
+Fourth, in a terminal window, change to the app directory and install the required libraries:
+
+```
+cd /path/to/project
+cd /app
+meteor npm install
+```
+
+## Running the Application
+
+Once you have completed the installation, you can start the application:
+
+```
+meteor npm run start
+```
+
+The first time you run the application, it will create some default users and date. Note that you can safely ignore warning about bcrypt.
+
+## Viewing the Application
+
+Once you have completed the installation and started up the application, you should be able to access it at [http://localhost:3000](http://localhost:3000). You can login using the default users, or register a new account.
 
 # Our Team
 
