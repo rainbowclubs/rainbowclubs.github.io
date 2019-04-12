@@ -24,8 +24,8 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
+        <a href="{{ site.github.app_url }}" class="btn">Live Demo</a>
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        <a href="{{ site.github.app_url }}" class="btn">Go to Page</a>
         <a href="{{ site.github.board_url }}" class="btn">View Project Board</a>
       {% endif %}
       {% if site.show_downloads %}
