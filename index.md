@@ -94,7 +94,7 @@ First, [install Meteor](https://www.meteor.com/install)
 
 Optionally, create a new GitHub repository and clone it to your local machine.
 
-Second, [download a copy of digits](https://john-dobbs.github.io/digits/).
+Second, [download a copy of Rainbow Clubs](https://rainbowclubs.github.io/).
 
 Third, uncompress the zip file and copy the files and directories into your working directory.
 
