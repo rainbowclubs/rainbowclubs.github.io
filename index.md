@@ -49,18 +49,18 @@ Admins can monitor the site for inappropriate content, and create new categories
 * Landing Page
 
 This is the main page that users will be directed to.  The goal of this page is to describe the function of the website as a whole.  Normal users and admin users will have different landing pages and tabs however the admin user currently does not have any different functions yet.
-![landing page](https://github.com/rainbowclubs/rainbowclubs.github.io/images/landing.png)
+![landing page](https://github.com/rainbowclubs/rainbowclubs.github.io/blob/master/images/landing.png)
 
 * Sign in/up Page
 
 These are the pages that users will be able to either sign in or register for an account.  These pages will store and pull the account information from a mongoDB.
-![Sign in page](https://github.com/rainbowclubs/rainbowclubs.github.io/images/signin.png)
-![Sign up page](https://github.com/rainbowclubs/rainbowclubs.github.io/images/signup.png)
+![Sign in page](https://github.com/rainbowclubs/rainbowclubs.github.io/blob/master/images/signin.png)
+![Sign up page](https://github.com/rainbowclubs/rainbowclubs.github.io/blob/master/images/signup.png)
 
 * Listing Page
 
 The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain a description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.
-![Listing page](https://github.com/rainbowclubs/rainbowclubs.github.io/images/listing.png)
+![Listing page](https://github.com/rainbowclubs/rainbowclubs.github.io/blob/master/images/listing.png)
 
 # Our Team
 
