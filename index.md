@@ -55,33 +55,66 @@ The following sections describe the main features of this application as of Mile
 The goal of this page is to describe the function of the website.
 When you retrieve the application at [http://localhost:3000](http://localhost:3000), you will receive the following page:
 
-<img src="doc/m1/landing.png">
+<img src="doc/m2/nobody_landing.png">
 
 ## Login Page
 Clicking on the Login link and then on the Sign In menu item, you will receive the following page:
 
-<img src="doc/m1/login.png">
+<img src="doc/m2/nobody_login.png">
 
 ## Register Page
 Clicking on the Login link and then on the Sign Up menu item, you will receive the following page:
 
-<img src="doc/m1/register.png">
+<img src="doc/m2/nobody_register.png">
 
-## Landing Page After Login (Non Admin User)
-Once a non admin user logs in or registers, the top navbar changes as follows:
+## Landing Page After Login (General User)
+Once a general user logs in or registers, the landing page will contain a listing of three random clubs and a link to view the complete club listing:
 
-<img src="doc/m1/landing_user.png">
+<img src="doc/m2/user_landing.png">
 
-## Landing Page After Login (Admin User)
-Note that we did not have any admin functionality for the first milestone, therefore the landing page is the same as the non admin user.
-Once an admin logs in, the top navbar changes as follows:
+## Landing Page After Login (Club Admin User)
+Once a club admin logs in, the landing page will contain the general user content, and a listing of any clubs the user is an admin of:
 
-<img src="doc/m1/landing_admin.png">
+<img src="doc/m2/club_admin_landing.png">
 
-## Listing Page
+## Landing Page After Login (Moderator User)
+Once a moderator logs in, the landing page will contian the general user and club admin content, and a list of moderator tasks:
+
+<img src="doc/m2/moderator_landing.png">
+
+## Landing Page After Login (Super Admin User)
+Once a super admin logs in, the landing page will contian the general user, club admin and moderator content, and a list of admin tasks:
+
+<img src="doc/m2/admin_landing.png">
+
+## Club Listing Page (All Users)
 The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain a description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.
 
-<img src="doc/m1/club_listing.png">
+<img src="doc/m2/user_club_listing.png">
+
+## Club Details Page (All Users)
+DESCRIPTION
+
+<img src="doc/m2/user_club_details.png">
+
+## Review Listing Page (Moderator and Super Admin Users)
+DESCRIPTION
+
+<img src="doc/m2/moderator_review_listing.png">
+
+## Review Details Page (Moderator and Super Admin Users)
+DESCRIPTION
+
+<img src="doc/m2/moderator_review_details.png">
+
+## Import CSV Page (Admin Users)
+Clicking on the Import CSV link on the super admin landing page, you will receive the following page:
+
+<img src="doc/m2/admin_import_csv_load_file.png">
+
+Once a CSV file is loaded and parsed, any changes (new, updated and deleted clubs) will be displayed for review and approval:
+
+<img src="doc/m2/admin_import_csv_changes_listing.png">
 
 # Developer Guide
 
