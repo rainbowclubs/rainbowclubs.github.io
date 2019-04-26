@@ -93,17 +93,17 @@ The purpose of this page is to list all registered RIOs and clubs in the UH data
 <img src="doc/m2/user_club_listing.png">
 
 ## Club Details Page (All Users)
-DESCRIPTION
+The purpose of this page is to display information about a club to the user.  The description will initially be blank, but club admins and super admins will have the ability to modify it.
 
 <img src="doc/m2/user_club_details.png">
 
 ## Review Listing Page (Moderator and Super Admin Users)
-DESCRIPTION
+The purpose of this page is to list the user reviews that need to be reviewed by a moderator or super admin.
 
 <img src="doc/m2/moderator_review_listing.png">
 
 ## Review Details Page (Moderator and Super Admin Users)
-DESCRIPTION
+The purpose of this page is to display details about a user review and allow a moderator or super admin to mark it invisible if it contains inappropiate content.
 
 <img src="doc/m2/moderator_review_details.png">
 
