@@ -9,6 +9,7 @@ title: Rainbow Clubs
 * [Use Case Ideas](#use-case-ideas)
 * [Advanced Features](#advanced-features)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Our Team](#our-team)
 
@@ -133,6 +134,50 @@ Clicking on the Import CSV link on the super admin landing page, you will receiv
 Once a CSV file is loaded and parsed, any changes (new, updated and deleted clubs) will be displayed for review and approval:
 
 <img src="doc/m3/admin_import_csv_changes_listing.png">
+
+# Community Feedback
+We interviewed five UH community members to get their opinions on our project, here's what they said:
+
+Kevin W.
+- Did not like the review rating selection, did not know how to enter initially
+- Was expecting more information on the view club page
+- Liked the overall look of website
+
+Leigton V.
+- Liked the overall look of the website
+- Thought type tags should be click-able
+- Thought the moderate review page needs work
+- Would have liked to see more information about the clubs
+- Did not feel add review was intuitive
+
+Herman L.
+- Thought landing page could use work
+	- Separation between sections
+	- Make clubs displayed click-able
+- Add review
+	- Add placeholder to comments field
+	- Ratings should be click-able stars or drop down (--, zero (0), one (1), two (2), ...)
+- Make "quality of life" improvements (improve usability) to entire website
+
+Zac K.
+- Thought components on the landing page should be click-able
+- Listing page
+	- Should show ratings of clubs, if reviewed
+	- Should include ability to filter based on rating
+- View club
+	- Was expecting more details about clubs
+	- Add review should have a larger header
+	- Add review comment should be a larger field
+- Moderate reviews
+	- Listing page should separate by status
+	- Moderate page should list which club the review is for
+- Import CSV page should have links to the added/modified pages in the Bert message
+
+Trevin T.
+- Liked the UH color schema, thought it was a clean look, but felt it could use more color
+- Liked the landing page, but thought components should be click-able
+- Thought type tags should link to search results for the type
+- Thought overall functionality was good and the website would be useful to the UH community
 
 # Developer Guide
 
