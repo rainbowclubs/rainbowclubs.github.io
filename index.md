@@ -50,7 +50,7 @@ Admins can monitor the site for inappropriate content, and create new categories
 * Allow students to rate clubs.
 
 # User Guide
-The following sections describe the main features of this application as of Milestone 1.
+The following sections describe the main features of this application as of Milestone 3.
 
 ## Landing Page
 The goal of this page is to describe the function of the website.
