@@ -94,12 +94,12 @@ Once a user has logged in, by clicking on their email in the top menu and then o
 <img src="doc/m3/user_settings.png">
 
 ## Club Listing Page (All Users)
-Once a user has logged in, by clicking on List Clubs in the top menu, they will receive the club listing page.  The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain an average rating (if reviewed), description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.  Users are able to search based on name or type.
+Once a user has logged in, by clicking on List Clubs in the top menu, they will receive the club listing page.  The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain an average rating (if reviewed), description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.  Users are able to search based on name and/or type.
 
 <img src="doc/m3/user_club_listing.png">
 
 ## Club Details Page (All Users)
-The purpose of this page is to display information about a club to the user.  The description will initially be blank, but club admins and super admins have the ability to modify it (markdown supported).
+The purpose of this page is to display information about a club to the user.  The description will initially be blank, but club admins and super admins have the ability to modify it (markdown is supported).
 
 <img src="doc/m3/user_club_details_description.png">
 
