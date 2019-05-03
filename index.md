@@ -89,12 +89,12 @@ Once a super admin logs in, the landing page will contian the general user, club
 <img src="doc/m2/admin_landing.png">
 
 ## User Settings Page (All Users)
-The purpose of this page is to allow the user to pick a perferred type(s).  This perferred type(s) will be used to filter the random clubs on the landing page after a user logs in.
+Once a user has logged in, by clicking on their email in the top menu and then on the Settings menu item, they will receive the users settings page.  The purpose of this page is to allow the user to pick their perferred type(s).  The perferred type(s) will be used to filter the random clubs on the landing page after a user logs in.
 
 <img src="doc/m3/user_settings.png">
 
 ## Club Listing Page (All Users)
-The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain an average rating (if reviewed), description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.  Users are able to search based on name or type.
+Once a user has logged in, by clicking on List Clubs in the top menu, they will receive the club listing page.  The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain an average rating (if reviewed), description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.  Users are able to search based on name or type.
 
 <img src="doc/m3/user_club_listing.png">
 
