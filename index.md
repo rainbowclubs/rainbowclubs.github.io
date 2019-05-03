@@ -55,66 +55,84 @@ The following sections describe the main features of this application as of Mile
 The goal of this page is to describe the function of the website.
 When you retrieve the application at [http://localhost:3000](http://localhost:3000), you will receive the following page:
 
-<img src="doc/m2/nobody_landing.png">
+<img src="doc/m3/nobody_landing.png">
 
 ## Login Page
 Clicking on the Login link and then on the Sign In menu item, you will receive the following page:
 
-<img src="doc/m2/nobody_login.png">
+<img src="doc/m3/nobody_login.png">
 
 ## Register Page
 Clicking on the Login link and then on the Sign Up menu item, you will receive the following page:
 
-<img src="doc/m2/nobody_register.png">
+<img src="doc/m3/nobody_register.png">
 
 ## Landing Page After Login (General User)
 Once a general user logs in or registers, the landing page will contain a listing of three random clubs and a link to view the complete club listing:
 
-<img src="doc/m2/user_landing.png">
+<img src="doc/m3/user_landing.png">
 
 ## Landing Page After Login (Club Admin User)
 Once a club admin logs in, the landing page will contain the general user content, and a listing of any clubs the user is an admin of:
 
-<img src="doc/m2/club_admin_landing.png">
+<img src="doc/m3/club_admin_landing.png">
 
 ## Landing Page After Login (Moderator User)
 Once a moderator logs in, the landing page will contian the general user and club admin content, and a list of moderator tasks:
 
-<img src="doc/m2/moderator_landing.png">
+<img src="doc/m3/moderator_landing.png">
 
 ## Landing Page After Login (Super Admin User)
 Once a super admin logs in, the landing page will contian the general user, club admin and moderator content, and a list of admin tasks:
 
 <img src="doc/m2/admin_landing.png">
 
-## Club Listing Page (All Users)
-The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain a description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.
+## User Settings Page (All Users)
+The purpose of this page is to allow the user to pick a perferred type(s).  This perferred type(s) will be used to filter the random clubs on the landing page after a user logs in.
 
-<img src="doc/m2/user_club_listing.png">
+<img src="doc/m3/user_settings.png">
+
+## Club Listing Page (All Users)
+The purpose of this page is to list all registered RIOs and clubs in the UH database.  Each club will have a card that will contain an average rating (if reviewed), description, tags, a link to the RIO/club website (if they have one), and a link to a seperate page that will have further descriptions of the RIO/club.  Users are able to search based on name or type.
+
+<img src="doc/m3/user_club_listing.png">
 
 ## Club Details Page (All Users)
-The purpose of this page is to display information about a club to the user.  The description will initially be blank, but club admins and super admins will have the ability to modify it.
+The purpose of this page is to display information about a club to the user.  The description will initially be blank, but club admins and super admins have the ability to modify it (markdown supported).
 
-<img src="doc/m2/user_club_details.png">
+<img src="doc/m3/user_club_details_description.png">
+
+If a club has any reviews, the reviews will be listed under the club description.
+
+<img src="doc/m3/user_club_details_reviews.png">
+
+Users are able to rate and leave a review about a club.
+
+<img src="doc/m3/user_club_details_add_review.png">
+
+## Edit Club Page (Club Admin and Super Admin Users)
+The purpose of this page is to allow club admins and super admins to modify the content of a club's page.
+
+<img src="doc/m3/club_admin_edit_club.png">
 
 ## Review Listing Page (Moderator and Super Admin Users)
 The purpose of this page is to list the user reviews that need to be reviewed by a moderator or super admin.
 
-<img src="doc/m2/moderator_review_listing.png">
+<img src="doc/m3/moderator_review_listing.png">
 
 ## Review Details Page (Moderator and Super Admin Users)
 The purpose of this page is to display details about a user review and allow a moderator or super admin to mark it invisible if it contains inappropiate content.
 
-<img src="doc/m2/moderator_review_details.png">
+<img src="doc/m3/moderator_review_details.png">
 
 ## Import CSV Page (Admin Users)
 Clicking on the Import CSV link on the super admin landing page, you will receive the following page:
 
-<img src="doc/m2/admin_import_csv_load_file.png">
+<img src="doc/m3/admin_import_csv_load_file.png">
 
 Once a CSV file is loaded and parsed, any changes (new, updated and deleted clubs) will be displayed for review and approval:
 
-<img src="doc/m2/admin_import_csv_changes_listing.png">
+<img src="doc/m3/admin_import_csv_changes_listing.png">
 
 # Developer Guide
 
