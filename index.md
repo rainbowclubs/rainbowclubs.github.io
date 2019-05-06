@@ -219,7 +219,7 @@ Once you have completed the installation and started up the application, you sho
 
 # Our Team
 
-* Audrey Ford
-* John Dobbs
-* Anthony Cathers
-* Leland Machii
+* [Audrey Ford](https://audreyford.github.io/)
+* [John Dobbs](https://john-dobbs.github.io/)
+* [Anthony Cathers](https://acathers.github.io/)
+* [Leland Machii](https://lmachii.github.io/)
