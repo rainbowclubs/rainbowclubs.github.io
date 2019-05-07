@@ -130,7 +130,7 @@ The purpose of this page is to display details about a user review and allow a m
 
 The purpose of this page is to display details about a club review and allow a moderator or super admin to mark it invisible if it contains inappropriate content.
 
-<img src="https://github.com/rainbowclubs/rainbowclubs.github.io/blob/master/images/pendingcludmodifications.png">
+<img src="https://raw.githubusercontent.com/rainbowclubs/rainbowclubs.github.io/master/images/pendingcludmodifications.png">
 
 ## Import CSV Page (Admin Users)
 Clicking on the Import CSV link on the super admin landing page, you will receive the following page:
